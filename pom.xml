@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jeet</artifactId>
-    <version>6.1.2-SNAPSHOT</version>
+    <version>6.1.2</version>
     <name>Jeet</name>
     <description>WebJar for Jeet</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/jeet</url>
         <connection>scm:git:https://github.com/webjars/jeet.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jeet.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jeet-6.1.2</tag>
     </scm>
     
     <build>
